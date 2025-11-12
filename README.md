@@ -137,9 +137,8 @@ int main() {
 
 ## OUTPUT
 
-
-![Alt text](os_exp6_1.png)
-![Alt text](os_exp6_2.png)
+](https://github.com/bhuvaneshtu10/Linux-IPC-Shared-memory/blob/main/os_exp6_1.png)]
+(https://github.com/bhuvaneshtu10/Linux-IPC-Shared-memory/blob/main/os_exp6_1.png)![Alt text](os_exp6_2.png)
 
 
 # RESULT:
